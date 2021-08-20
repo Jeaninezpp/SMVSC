@@ -16,9 +16,9 @@ A = zeros(d,m);         % d  * m
 Z = zeros(m,numsample); % m  * n
 
 for i = 1:numview
+   X{i} = mapstd(X{i}',0,1); % turn into d*n
    di = size(X{i},1); 
    W{i} = zeros(di,d);
-   X{i} = mapstd(X{i}',0,1); % turn into d*n
 end
 Z(:,1:m) = eye(m);
 
