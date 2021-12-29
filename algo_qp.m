@@ -75,7 +75,7 @@ end
     %% optimize alpha
     M = zeros(numview,1);
     for iv = 1:numview
-        M(iv) = norm( X{iv} - W{iv} * A * Z,'fro');
+        M(iv) = norm( X{iv} - W{iv} * A * Z,'fro')^2;
     end
     Mfra = M.^-1;
     Q = 1/sum(Mfra);
