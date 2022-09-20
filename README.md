@@ -1,14 +1,7 @@
-[stars-img]: https://img.shields.io/github/stars/FelixDJC/Awesome-Graph-Anomaly-Detection?color=yellow
-[stars-url]: https://github.com/FelixDJC/Awesome-Graph-Anomaly-Detection/stargazers
-[fork-img]: https://img.shields.io/github/forks/FelixDJC/Awesome-Graph-Anomaly-Detection?color=lightblue&label=fork
-[fork-url]: https://github.com/FelixDJC/Awesome-Graph-Anomaly-Detection/network/members
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=FelixDJC.Awesome-Graph-Anomaly-Detection
-[adgc-url]: https://github.com/FelixDJC/Awesome-Graph-Anomaly-Detection
 
 # SMVSC
-[![GitHub stars][stars-img]][stars-url]
-[![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
+![GitHub Repo stars](https://img.shields.io/github/stars/Jeaninezpp/SMVSC?style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/Jeaninezpp/SMVSC?style=plastic)
 
 This repo is a MATLAB implementaion of **Scalable Multi-view Subspace Clustering with Unified Anchors** in ACM MM'21
 
