@@ -1,7 +1,14 @@
+[stars-img]: https://img.shields.io/github/stars/Jeaninezpp/SMVSC?style=plastic
+[stars-url]: https://github.com/Jeaninezpp/SMVSC/stargazers
+[fork-img]: https://img.shields.io/github/forks/Jeaninezpp/SMVSC?style=plastic
+[fork-url]: https://github.com/Jeaninezpp/SMVSC/network/members
+[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=Jeaninezpp.SMVSC
+[adgc-url]: https://github.com/Jeaninezpp/SMVSC
 
 # SMVSC
-![GitHub Repo stars](https://img.shields.io/github/stars/Jeaninezpp/SMVSC?style=plastic)
-![GitHub forks](https://img.shields.io/github/forks/Jeaninezpp/SMVSC?style=plastic)
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
+[![visitors][visitors-img]][adgc-url]
 
 This repo is a MATLAB implementaion of **Scalable Multi-view Subspace Clustering with Unified Anchors** in ACM MM'21
 
